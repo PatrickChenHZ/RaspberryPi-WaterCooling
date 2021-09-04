@@ -1,1 +1,4 @@
-
+Final - water tank temperture probe
+Finaldht - use DHT11 as replacement for temperture probe
+Finaldhtrgb - use DHT11 as replacement for temperture probe come with software(driver) controlled rgb support
+Finalrgb - TODO water tank temperture probe come with software(driver) controlled rgb support
